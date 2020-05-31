@@ -1,4 +1,4 @@
-# Camping
+# [Camping](https://github.com/kevindurb/camping)
 
 ## [Inventory](./inventory)
 - [Gear](./inventory/gear.md)
