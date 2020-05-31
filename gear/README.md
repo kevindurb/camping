@@ -5,6 +5,8 @@
 - Termarest Pad
 - Big Angus Inflatable Pad
 - REI Stratus Inflatable Pad
+- Thermolite Adapter
+- Thermolite Reactor
 ## Shelter
 - GoLite 2P Tent
 - 4P Tent
@@ -28,7 +30,32 @@
 - Sponge
 - 750ml Titanium Pot
 - Stick Stove
+- Pocket Rocket Stove
+- 2x Fuel Stands
+- Eat n Tool
+- 3x Flask
 ## Fire
+- Pocket Bellows (Missing)
+- 6" Ferro Rod
+- 2x 2" Ferro Rod
+- Box Matches
+- Storm Matches
 ## Medical
+- 2x Altoids Tin First Aid Kit
+- 1oz Repel Spray
+- 0.5oz Repel Spray
 ## Hydration
+- Sawyer Squeeze Filter
+- 3x 32oz Nalgene
+- Lifestraw Bottle
+## Toiletries
+- Toilet Paper
+## Repair
+- Mini Knife Sharpener
+- Sleeping Pad Patch Kit
 ## Misc
+- Chem-Lights
+- AAA Batteries
+## Tools
+- Leatherman Kick
+- Gerber Fixed Blade
