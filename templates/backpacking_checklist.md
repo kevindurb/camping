@@ -1,6 +1,6 @@
 # Minimal Pack Plan
-- [ ] 1P
-- [ ] Summer
+- 1P
+- Summer
 ## Sleep System
 - [ ] Down Bag
 - [ ] Foam Pad
@@ -28,10 +28,18 @@
 ## Medical
 - [ ] Med Kit
 - [ ] Repel
+- [ ] Sunscreen
 ## Fire
 - [ ] 6" Ferro Rod
 - [ ] Storm Matches
 - [ ] Cotton Balls
+## Clothing
+- [ ] Hat
+- [ ] Boots
+- [ ] Extra Socks
+- [ ] Extra Underwear
+- [ ] Rain Jacket
 ## Misc
 - [ ] Bushcraft Knife
 - [ ] Stake Hammer
+- [ ] Sunglasses
