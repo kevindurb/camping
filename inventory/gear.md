@@ -1,4 +1,4 @@
-# Gear Inventory
+# Gear
 ## Sleep System
 - Marmot 0deg Down Mummy Bag
 - REI 0deg Synthetic Bag
