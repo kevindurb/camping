@@ -36,6 +36,7 @@
 ## Clothing
 - [ ] Hat
 - [ ] Boots
+- [ ] Chacos
 - [ ] Extra Socks
 - [ ] Extra Underwear
 - [ ] Rain Jacket
