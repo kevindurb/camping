@@ -4,25 +4,30 @@
 - Elevation Gain: 1,837 Feet
 
 ## Meals
+
 ### Sunday
 - Lunch
 - Dinner
+
 ### Monday
 - Breakfast
 - Lunch
 - Dinner
+
 ### Tuesday
 - Breakfast
 - Lunch
 
-## Sunday 5th
+## Schedule
+
+### Sunday 5th
 - (5:00am) Leave Falcon, CO
 - (8:30am) Arrive at trail head
 - (10:30am) Arrive at lake
 
-## Monday 6th
+### Monday 6th
 
-## Tuesday 7th
+### Tuesday 7th
 - (9:00am) Start hike back
 - (11:00am) Back at trail head
 - (12:00pm) Leave for home
