@@ -2,6 +2,7 @@
 - Trail head: 39.428412, -106.411250
 - Full distance: 4.8 Miles
 - Elevation Gain: 1,837 Feet
+- [Driving Directions](https://www.google.com/maps/dir/Falcon,+El+Paso+County,+CO/39.42844,-106.41137/@39.0926071,-106.0871628,9z/data=!4m12!4m11!1m5!1m1!1s0x871333c80a0d9aa9:0x490cfece10bcb684!2m2!1d-104.6009415!2d38.9383017!1m0!2m3!6e0!7e2!8j1593925200)
 
 ## Meals
 
