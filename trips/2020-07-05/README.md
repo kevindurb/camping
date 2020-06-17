@@ -34,3 +34,6 @@
 - (11:00am) Back at trail head
 - (12:00pm) Leave for home
 - (3:30pm) Arrive at home
+
+![TOPO](./TOPO.png)
+![3D](./3D.png)
