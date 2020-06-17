@@ -1,8 +1,8 @@
-# July 5-7th, 2020 - [Whitney Lake Trail](https://www.alltrails.com/trail/us/colorado/whitney-lake-trail--2)
-- Trail head: 39.428412, -106.411250
-- Full distance: 4.8 Miles
-- Elevation Gain: 1,837 Feet
-- [Driving Directions](https://www.google.com/maps/dir/Falcon,+El+Paso+County,+CO/39.42844,-106.41137/@39.0926071,-106.0871628,9z/data=!4m12!4m11!1m5!1m1!1s0x871333c80a0d9aa9:0x490cfece10bcb684!2m2!1d-104.6009415!2d38.9383017!1m0!2m3!6e0!7e2!8j1593925200)
+# July 5-7th, 2020 - [Blue Ridge Trail to Bowen Lake](https://www.alltrails.com/trail/us/colorado/blue-ridge-trail-to-bowen-lake--2)
+- Trail head: 40.30017,-105.91991
+- Distance: 9.3 Miles Round Trip
+- Elevation Gain: 1,906 Feet
+- [Driving Directions](https://www.google.com/maps/dir/Falcon,+El+Paso+County,+CO/40.30017,-105.91991/@39.6924383,-106.0515612,217380m/data=!3m2!1e3!4b1!4m12!4m11!1m5!1m1!1s0x871333c80a0d9aa9:0x490cfece10bcb684!2m2!1d-104.6009415!2d38.9383017!1m0!2m3!6e0!7e2!8j1593925200)
 
 ## Meals
 
