@@ -2,25 +2,42 @@
 ## Entry
 - [ ] National Parks Pass (Trey)
 - [ ] Timed Entry Reservations (5th, 6th, and 7th) (Trey)
+## Pack
+- [ ] Pack (Trey)
+- [ ] Raincover (Trey)
+- [ ] Pack (Kev)
+- [ ] Raincover (Kev)
 ## Sleep System
-- [ ] Down Bag
-- [ ] Big Angus Pad
+- [ ] Down Bag (kev)
+- [ ] Big Angus Pad (kev)
+- [ ] Synth Bag (Trey)
+- [ ] Stratus Pad (Trey)
 ## Shelter
 - [ ] Golite 2P Tent
-- [ ] Paracord
-- [ ] Stakes
+  - [ ] Tent
+  - [ ] Poles
+  - [ ] Stakes
+  - [ ] Rain Fly
+  - [ ] Foot Print
 ## Kitchen
 - [ ] Titanium Pot
 - [ ] Stick Stove
-- [ ] Collapsing Plate
-- [ ] Titanium Spoon & Fork
+- [ ] Titanium Mug (Kev)
+- [ ] ??? Mug (Trey)
+- [ ] Collapsing Plate (Kev)
+- [ ] Plate (Trey)
+- [ ] Titanium Spoon & Fork (Kev)
+- [ ] ??? Utensils (Trey)
 - [ ] Single Pot
 - [ ] Pot Handle
 - [ ] Sponge
-- [ ] disk Soap
+- [ ] Dish Soap
+- [ ] Dish Towel???
 ## Hydration
-- [ ] Sawyer Squeeze
-- [ ] Nalgene
+- [ ] Sawyer Squeeze (Kev)
+- [ ] Nalgene (Kev)
+- [ ] San Tabs
+- [ ] ??? Water System (Trey)
 ## Toiletries
 - [ ] Toilet Paper
 - [ ] Trowel
@@ -35,7 +52,8 @@
 - [ ] 6" Ferro Rod
 - [ ] Storm Matches
 - [ ] Cotton Balls
-## Clothing
+- [ ] Pocket Bellows
+## Clothing (TODO: Expand)
 - [ ] Hat
 - [ ] Boots
 - [ ] Chacos
@@ -47,6 +65,8 @@
 - [ ] Stake Hammer
 - [ ] Sunglasses
 - [ ] Treking Poles
+- [ ] Headlamp (Trey)
+- [ ] Headlamp (Kev)
 ## Fishing
 - [ ] License
 - [ ] Rod
