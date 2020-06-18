@@ -33,6 +33,7 @@
 - [ ] Sponge
 - [ ] Dish Soap
 - [ ] Dish Towel???
+- [ ] Bear Canister
 ## Hydration
 - [ ] Sawyer Squeeze (Kev)
 - [ ] Nalgene (Kev)
@@ -67,6 +68,7 @@
 - [ ] Treking Poles
 - [ ] Headlamp (Trey)
 - [ ] Headlamp (Kev)
+- [ ] Bear Spray
 ## Fishing
 - [ ] License
 - [ ] Rod
