@@ -1,19 +1,18 @@
-# Minimal Pack Plan
-- 1P
-- Summer
+# Checklist
 ## Sleep System
 - [ ] Down Bag
-- [ ] Foam Pad
+- [ ] Big Angus Pad
 ## Shelter
-- [ ] Tarp
+- [ ] Golite 2P Tent
 - [ ] Paracord
 - [ ] Stakes
-- [ ] Treking Poles
 ## Kitchen
 - [ ] Titanium Pot
 - [ ] Stick Stove
 - [ ] Collapsing Plate
 - [ ] Titanium Spoon & Fork
+- [ ] Single Pot
+- [ ] Pot Handle
 - [ ] Sponge
 - [ ] disk Soap
 ## Hydration
@@ -44,3 +43,9 @@
 - [ ] Bushcraft Knife
 - [ ] Stake Hammer
 - [ ] Sunglasses
+- [ ] Treking Poles
+## Fishing
+- [ ] License
+- [ ] Rod
+- [ ] Lures
+- [ ] Pliers
