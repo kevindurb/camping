@@ -1,4 +1,7 @@
 # Checklist
+## Entry
+- [ ] National Parks Pass (Trey)
+- [ ] Timed Entry Reservations (5th, 6th, and 7th) (Trey)
 ## Sleep System
 - [ ] Down Bag
 - [ ] Big Angus Pad
