@@ -8,17 +8,17 @@
 ## Meals
 
 ### Sunday
-- Lunch
-- Dinner
+- Lunch - BYO
+- Dinner - Kev
 
 ### Monday
-- Breakfast
-- Lunch
-- Dinner
+- Breakfast - Trey
+- Lunch - Kev
+- Dinner - Trey
 
 ### Tuesday
-- Breakfast
-- Lunch
+- Breakfast - Kev - Apple Quinoa Porridge
+- Lunch - Trey
 
 ## Schedule
 
