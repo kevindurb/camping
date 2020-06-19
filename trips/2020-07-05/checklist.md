@@ -3,10 +3,8 @@
 - [ ] National Parks Pass (Trey)
 - [ ] Timed Entry Reservations (5th, 6th, and 7th) (Trey)
 ## Pack
-- [ ] Pack (Trey)
-- [ ] Raincover (Trey)
-- [ ] Pack (Kev)
-- [ ] Raincover (Kev)
+- [ ] Pack (Kev & Trey)
+- [ ] Raincover (Kev & Trey)
 ## Sleep System
 - [ ] Down Bag (kev)
 - [ ] Big Angus Pad (kev)
@@ -20,14 +18,15 @@
   - [ ] Rain Fly
   - [ ] Foot Print
 ## Kitchen
-- [ ] Titanium Pot
-- [ ] Stick Stove
-- [ ] Titanium Mug (Kev)
-- [ ] ??? Mug (Trey)
+- [ ] Titanium Pot (Kev)
+- [ ] Stick Stove (Kev)
+- [ ] Solo Stove (Trey)
+- [ ] Stove Fuel (Trey)
+- [ ] Titanium Mug (Trey)
 - [ ] Collapsing Plate (Kev)
 - [ ] Plate (Trey)
 - [ ] Titanium Spoon & Fork (Kev)
-- [ ] ??? Utensils (Trey)
+- [ ] Plastic Spoon-Fork (Trey)
 - [ ] Single Pot
 - [ ] Pot Handle
 - [ ] Sponge
@@ -40,15 +39,16 @@
 - [ ] San Tabs
 - [ ] ??? Water System (Trey)
 ## Toiletries
-- [ ] Toilet Paper
+- [ ] Toilet Paper (Kev & Trey)
+- [ ] Toothbrush (Kev & Trey)
+- [ ] Toothpaste (Kev & Trey)
+- [ ] Body Wipes (Kev & Trey)
 - [ ] Trowel
-- [ ] Toothbrush
-- [ ] Toothpaste
-- [ ] Body Wipes
 ## Medical
 - [ ] Med Kit
 - [ ] Repel
 - [ ] Sunscreen
+- [ ] Burts Bees
 ## Fire
 - [ ] 6" Ferro Rod
 - [ ] Storm Matches
@@ -69,6 +69,8 @@
 - [ ] Headlamp (Trey)
 - [ ] Headlamp (Kev)
 - [ ] Bear Spray
+- [ ] First Aid Kit
+- [ ] Hammock
 ## Fishing
 - [ ] License
 - [ ] Rod
