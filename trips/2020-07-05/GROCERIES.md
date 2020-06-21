@@ -1,4 +1,8 @@
 # Groceries
+## Snacks
+- [x] Trail Mix
+- [ ] Beef Jerky
+- [ ] Protein Bars
 ## Meals
 - [Apple Quinoa Porridge](https://www.rei.com/blog/camp/backpacking-recipe-apple-quinoa-porridge)
   - [x] Quinoa
