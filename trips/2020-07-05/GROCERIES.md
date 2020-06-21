@@ -7,7 +7,7 @@
   - [x] Salt
   - [x] Maple Syrup
   - [x] Vanilla
-  - [ ] Coconut Milk Powder
+  - [x] Coconut Milk Powder
   - [x] Chopped Pecans
 - [Coconut Curry Ramen](https://www.rei.com/blog/camp/backpacking-recipe-coconut-curry-ramen)
   - [ ] Shiitake Mushrooms
@@ -20,7 +20,7 @@
   - [x] Garlic Powder
   - [ ] Onion Powder
   - [x] Dried Pasta
-  - [ ] Soy Sauce Packets
+  - [x] Soy Sauce Packets
 - [Red Lentil Marinara](https://www.rei.com/blog/camp/backpacking-recipes-red-lentil-marinara)
   - [x] Chicken Broth
   - [ ] 1 Can Tomatoes
@@ -31,4 +31,4 @@
   - [x] Sugar
   - [x] Salt
   - [x] Dried Pasta
-  - [ ] Olive Oil Packets
+  - [x] Olive Oil Packets
