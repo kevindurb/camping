@@ -9,11 +9,11 @@
 
 ### Sunday
 - Lunch - BYO
-- Dinner - Kev
+- Dinner - Kev - Red Lentil Marinara
 
 ### Monday
 - Breakfast - Trey
-- Lunch - Kev
+- Lunch - Kev - Coconut Curry Ramen
 - Dinner - Trey
 
 ### Tuesday

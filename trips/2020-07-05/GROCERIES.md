@@ -1,0 +1,34 @@
+# Groceries
+## Meals
+- [Apple Quinoa Porridge](https://www.rei.com/blog/camp/backpacking-recipe-apple-quinoa-porridge)
+  - [x] Quinoa
+  - [ ] 2 Apples
+  - [x] Cinnamon
+  - [x] Salt
+  - [x] Maple Syrup
+  - [x] Vanilla
+  - [ ] Coconut Milk Powder
+  - [x] Chopped Pecans
+- [Coconut Curry Ramen](https://www.rei.com/blog/camp/backpacking-recipe-coconut-curry-ramen)
+  - [ ] Shiitake Mushrooms
+  - [ ] Frozen Veggies
+  - [ ] Bouillon Cubes
+  - [ ] Coconut Milk Powder
+  - [ ] Curry Powder
+  - [x] Sugar
+  - [x] Ground Ginger
+  - [x] Garlic Powder
+  - [ ] Onion Powder
+  - [x] Dried Pasta
+  - [ ] Soy Sauce Packets
+- [Red Lentil Marinara](https://www.rei.com/blog/camp/backpacking-recipes-red-lentil-marinara)
+  - [x] Chicken Broth
+  - [ ] 1 Can Tomatoes
+  - [x] Red Lentils
+  - [x] 1 Clove Garlic
+  - [x] Oregano
+  - [x] Basil
+  - [x] Sugar
+  - [x] Salt
+  - [x] Dried Pasta
+  - [ ] Olive Oil Packets
