@@ -4,17 +4,10 @@
 - [ ] Beef Jerky
 - [ ] Protein Bars
 ## Other
-- [ ] Coffee
+- [ ] 6 x Via Coffee Packets
+- [ ] Extra Rice
+- [ ] 6 x Oatmeal Packets
 ## Meals
-- [Apple Quinoa Porridge](https://www.rei.com/blog/camp/backpacking-recipe-apple-quinoa-porridge)
-  - [x] Quinoa
-  - [ ] 2 Apples
-  - [x] Cinnamon
-  - [x] Salt
-  - [x] Maple Syrup
-  - [x] Vanilla
-  - [x] Coconut Milk Powder
-  - [x] Chopped Pecans
 - [Coconut Curry Ramen](https://www.rei.com/blog/camp/backpacking-recipe-coconut-curry-ramen)
   - [ ] Shiitake Mushrooms
   - [ ] Frozen Veggies
