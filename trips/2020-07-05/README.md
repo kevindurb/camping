@@ -8,16 +8,16 @@
 ## Meals
 
 ### Sunday
-- Lunch - [Vegetarian Lentil Chili](https://www.youtube.com/watch?v=ppE5eGK4UCc)
-- Dinner - Kev - Red Lentil Marinara
+- Lunch - [Vegetarian Lentil Chili](https://www.rei.com/blog/camp/backpacking-vegetarian-lentil-chili-recipe)
+- Dinner  - [Red Lentil Marinara](https://www.rei.com/blog/camp/backpacking-recipes-red-lentil-marinara)
 
 ### Monday
 - Breakfast - Oatmeal Packets
-- Lunch - Kev - Coconut Curry Ramen
-- Dinner - [Fried Rice](https://www.youtube.com/watch?v=r9vKy5aUTR8)
+- Lunch - [Coconut Curry Ramen](https://www.rei.com/blog/camp/backpacking-recipe-coconut-curry-ramen)
+- Dinner - [Fried Rice](https://www.rei.com/blog/camp/backpacking-recipe-fried-rice)
 
 ### Tuesday
-- Breakfast - Kev - Oatmeal Packets
+- Breakfast - Oatmeal Packets
 - Lunch - Bars
 
 ## Schedule
