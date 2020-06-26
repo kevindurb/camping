@@ -12,13 +12,13 @@
 - Dinner - Kev - Red Lentil Marinara
 
 ### Monday
-- Breakfast - Trey
+- Breakfast - Oatmeal Packet
 - Lunch - Kev - Coconut Curry Ramen
-- Dinner - Trey
+- Dinner - [Fried Rice](https://www.youtube.com/watch?v=r9vKy5aUTR8)
 
 ### Tuesday
 - Breakfast - Kev - Apple Quinoa Porridge
-- Lunch - Trey
+- Lunch - [Vegetarian Lentil Chili](https://www.youtube.com/watch?v=ppE5eGK4UCc)
 
 ## Schedule
 
