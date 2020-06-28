@@ -9,15 +9,15 @@
 - [ ] 6 x Oatmeal Packets
 ## Meals
 - [Coconut Curry Ramen](https://www.rei.com/blog/camp/backpacking-recipe-coconut-curry-ramen)
-  - [ ] Shiitake Mushrooms
-  - [ ] Frozen Veggies
-  - [ ] Bouillon Cubes
-  - [ ] Coconut Milk Powder
-  - [ ] Curry Powder
+  - [x] Shiitake Mushrooms
+  - [x] Frozen Veggies
+  - [x] Bouillon Cubes
+  - [x] Coconut Milk Powder
+  - [x] Curry Powder
   - [x] Sugar
   - [x] Ground Ginger
   - [x] Garlic Powder
-  - [ ] Onion Powder
+  - [x] Onion Powder
   - [x] Dried Pasta
   - [x] Soy Sauce Packets
 - [Red Lentil Marinara](https://www.rei.com/blog/camp/backpacking-recipes-red-lentil-marinara)
@@ -33,30 +33,30 @@
   - [x] Olive Oil Packets
 - [Fried Rice](https://www.rei.com/blog/camp/backpacking-recipe-fried-rice)
 In one bag:
-  - [ ] 1 cup Just Veggies
-  - [ ] 1 vegetable bouillon cube
-  - [ ] ½ teaspoon brown sugar
-  - [ ] ½ teaspoon ground ginger
-  - [ ] ¼ teaspoon garlic powder
-  - [ ] ¼ teaspoon sea salt
-  - [ ] 2 soy sauce packets
+  - [x] 1 cup Just Veggies
+  - [x] 1 vegetable bouillon cube
+  - [x] ½ teaspoon brown sugar
+  - [x] ½ teaspoon ground ginger
+  - [x] ¼ teaspoon garlic powder
+  - [x] ¼ teaspoon sea salt
+  - [x] 2 soy sauce packets
 In a second bag:
-  - [ ] 1 cup instant rice
+  - [x] 1 cup instant rice
 In a third bag:
   - [ ] ¼ cup OvaEasy egg crystals
 - [Vegetarian Lentil Chili](https://www.rei.com/blog/camp/backpacking-vegetarian-lentil-chili-recipe)
-  - [ ] 1 tablespoon oil
+  - [x] 1 tablespoon oil
   - [ ] 1 cup diced onion
   - [ ] 1 cup diced bell pepper
-  - [ ] 1 teaspoon salt, plus more to taste
+  - [x] 1 teaspoon salt, plus more to taste
   - [ ] 2 cups sliced zucchini
   - [ ] 6 cloves garlic, minced
-  - [ ] 1 tablespoon ground cumin
-  - [ ] 3 tablespoons chili powder
+  - [x] 1 tablespoon ground cumin
+  - [x] 3 tablespoons chili powder
   - [ ] 1 (14oz) can fire roasted diced tomatoes
   - [ ] 1 (14oz) can kidney beans, drained
   - [ ] 2 tablespoons tomato paste
-  - [ ] 2+ cups vegetable broth or water
-  - [ ] 1 cup red lentils
-  - [ ] 1 teaspoon sugar
-  - [ ] 1 teaspoon salt, plus more to taste
+  - [x] 2+ cups vegetable broth or water
+  - [x] 1 cup red lentils
+  - [x] 1 teaspoon sugar
+  - [x] 1 teaspoon salt, plus more to taste
