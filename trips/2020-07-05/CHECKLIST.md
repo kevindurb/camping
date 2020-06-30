@@ -20,13 +20,13 @@
 ## Kitchen
 - [ ] Titanium Pot (Kev)
 - [ ] Stick Stove (Kev)
+- [ ] Collapsing Plate (Kev)
+- [ ] Titanium Spoon & Fork (Kev)
+- [ ] Plate (Trey)
+- [ ] Plastic Spoon-Fork (Trey)
 - [ ] Solo Stove (Trey)
 - [ ] Stove Fuel (Trey)
 - [ ] Titanium Mug (Trey)
-- [ ] Collapsing Plate (Kev)
-- [ ] Plate (Trey)
-- [ ] Titanium Spoon & Fork (Kev)
-- [ ] Plastic Spoon-Fork (Trey)
 - [ ] Single Pot
 - [ ] Pot Handle
 - [ ] Sponge
