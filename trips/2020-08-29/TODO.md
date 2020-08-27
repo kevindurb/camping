@@ -1,0 +1,16 @@
+# TODO
+- [x] Choose Meals
+- [ ] Buy Food
+- [ ] Pack
+- [ ] Dehydration
+  - [ ] Coconut Curry Ramen
+    - [ ] Mushrooms
+    - [ ] Veggies
+    - [ ] Noodles
+  - [ ] Red Lentil Marinara
+    - [ ] Lentil Sauce
+    - [ ] Noodles
+  - [ ] Fried Rice
+    - [ ] Veggies
+  - [ ] Vegetarian Lentil Chili
+    - [ ] Chili
